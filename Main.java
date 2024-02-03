@@ -7,6 +7,7 @@ public class Main {
         Book secondBook = new Book("Java", 2015, new Author("Anton","Ivanov"));
         firstBook.setYear(2020);
         System.out.println(firstBook.toString());
+/**/
 
     }
 }
